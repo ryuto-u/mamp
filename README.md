@@ -1,4 +1,4 @@
 # オンラインショップ
-mamp#(phpMyadmin・php)
+(phpMyadmin・php)
 
 
