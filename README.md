@@ -1,2 +1,4 @@
-# mamp
-課題
+オンラインショップ
+・Mamp
+・phpadmin
+・PHP
