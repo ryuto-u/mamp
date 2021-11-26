@@ -1,4 +1,4 @@
 # オンラインショップ
 mamp(phpadmin・php)
 
-![tetris](screenshot:2.png "Tetris")
+![tetris](screenshot:2.png)
